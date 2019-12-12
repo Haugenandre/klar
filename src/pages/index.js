@@ -49,6 +49,11 @@ const IndexPage = () => (
       <Card title="Design System"
       text="10 sections" 
       image={require('../images/wallpaper.jpg')} />
+      <a href="https://vg.no" target="_blank" rel="noopener noreferrer">
+      vg
+    </a>
+
+
       <Card title="React for Designers"
       text="12 sections" 
       image={require('../images/wallpaper2.jpg')} />
